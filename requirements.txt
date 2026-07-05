@@ -1,6 +1,6 @@
 numpy
 streamlit
-sentance-transformer
+sentence-transformer
 scikit-learn
 pandas
 torch
