@@ -1,2 +1,6 @@
 numpy
 streamlit
+sentance-transformer
+scikit-learn
+pandas
+torch
